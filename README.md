@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science & machine learning
 - 🌱 I’m currently learning advanced sql, ML models
 - 💞️ I’m looking to collaborate on any data related project
-- 📫 How to reach me alexandre.norbrt78 at gmail.com
+- 📫 How to reach me
 
 <!---
 alex-learner/alex-learner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
